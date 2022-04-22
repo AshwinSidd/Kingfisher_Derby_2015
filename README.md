@@ -1,4 +1,7 @@
 # Kingfisher_Derby_2014
+All roads led to the Bangalore Turf Club on Sunday, July 12th, as the city’s equestrian enthusiasts came to witness the power packed Kingfisher Derby 2015. The 28th edition of the Kingfisher Derby was witnessed by over 20,000 people who cheered for their favourite horses. Amongst the crème da la crème at the Derby, DJ Aqeel and Anita Kohlay were spotted dressed impeccably in classic Derby wear and having a great time.  
+
+## Communication Protcol
 Communications protocol included pre-event listings (including trophy unveiling and draw of lots by celebrities), event coverage across national media (derby day) and post event stories
 
 ## Work Plan
